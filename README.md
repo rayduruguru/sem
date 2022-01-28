@@ -1,2 +1,2 @@
-## SEM Project
-# Raymond Duru
+# Software Engineering Methods Project
+## Raymond Duru 
